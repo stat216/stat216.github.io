@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://stat216.github.io/sitemap.xml

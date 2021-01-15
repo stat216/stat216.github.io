@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maddi | STA 216</title>
+    <link>https://stat216.github.io/author/maddi/</link>
+      <atom:link href="https://stat216.github.io/author/maddi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maddi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021</copyright>
+    <image>
+      <url>https://stat216.github.io/author/maddi/avatar_hu6eb220540fd56793313d8b217c9de908_137195_270x270_fill_lanczos_center_2.png</url>
+      <title>Maddi</title>
+      <link>https://stat216.github.io/author/maddi/</link>
+    </image>
+    
+  </channel>
+</rss>

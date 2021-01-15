@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course Structure | STA 216</title>
+    <link>https://stat216.github.io/courses/course-structure/</link>
+      <atom:link href="https://stat216.github.io/courses/course-structure/index.xml" rel="self" type="application/rss+xml" />
+    <description>Course Structure</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stat216.github.io/media/sta216-sticker.png</url>
+      <title>Course Structure</title>
+      <link>https://stat216.github.io/courses/course-structure/</link>
+    </image>
+    
+    <item>
+      <title>Learning Modules</title>
+      <link>https://stat216.github.io/courses/course-structure/modules/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://stat216.github.io/courses/course-structure/modules/</guid>
+      <description>&lt;p&gt;All materials for these modules will be shared through the Blackboard course site.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Module 1: Introduction to Statistical Modeling and SAS
+&lt;ul&gt;
+&lt;li&gt;Activity 1.1: Introduction to Statistical Modeling and Terminology&lt;/li&gt;
+&lt;li&gt;Activity 1.2: Introduction to SAS Output&lt;/li&gt;
+&lt;li&gt;Activity 1.3: Introduction to SAS Programming&lt;/li&gt;
+&lt;li&gt;Activity 1.4: Introduction to the Four-Step Modeling Approach with SAS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Module 2: One-Way Analysis of Variance
+&lt;ul&gt;
+&lt;li&gt;Activity 2.1: Choose&lt;/li&gt;
+&lt;li&gt;Activity 2.2: Fit and Assess&lt;/li&gt;
+&lt;li&gt;Activity 2.3: Use&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Module 3: Two-Way Analysis of Variance
+&lt;ul&gt;
+&lt;li&gt;Activity 3.1: Additive Models&lt;/li&gt;
+&lt;li&gt;Activity 3.2: Introduction to Interaction&lt;/li&gt;
+&lt;li&gt;Activity 3.3: Interaction Models&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Module 4: Simple Linear Regression
+&lt;ul&gt;
+&lt;li&gt;Activity 4.1: Choose&lt;/li&gt;
+&lt;li&gt;Activity 4.2: Fit&lt;/li&gt;
+&lt;li&gt;Activity 4.3: Assess&lt;/li&gt;
+&lt;li&gt;Activity 4.4: Use&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Module 5: Multiple Linear Regression
+&lt;ul&gt;
+&lt;li&gt;Activity 5.1: Choose&lt;/li&gt;
+&lt;li&gt;Activity 5.2: Fit&lt;/li&gt;
+&lt;li&gt;Activity 5.3: Assess&lt;/li&gt;
+&lt;li&gt;Activity 5.4: Assess with Transformations&lt;/li&gt;
+&lt;li&gt;Activity 5.5: Use&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Team-Based Learning</title>
+      <link>https://stat216.github.io/courses/course-structure/team-based-learning/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://stat216.github.io/courses/course-structure/team-based-learning/</guid>
+      <description>&lt;p&gt;This course will be taught using a Team-Based Learning approach which encourages collaboration and active learning for both individuals and teams.
+Most in-class time will be spent working on activities that allow you to directly apply key course concepts within the classroom.
+These activities will be shared with you on Blackboard as Google Docs.&lt;/p&gt;
+&lt;p&gt;The course is divided into five Learning Modules.
+Each Learning Module has three components: Preparation, Application, and Assessment.&lt;/p&gt;
+&lt;h2 id=&#34;preparation&#34;&gt;Preparation&lt;/h2&gt;
+&lt;p&gt;How we prepare for our class sessions is essential for Team-Based Learning.
+Each Preparation provides an opportunity to demonstrate your comprehension of the reading and course concepts.
+Each Preparation follows the sequential pattern:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Readings&lt;/strong&gt;: At the start of each Learning Module, you will complete assigned readings outside of class (which may also include watching videos). These readings contain the core concepts and ideas needed to be successful in the Application phase. There will be additional readings as you and your team members progress through the activities within a Learning Module.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Individual Preparation Quiz&lt;/strong&gt;: Each Individual Preparation quiz is a short (12-ish) set of questions composed of multiple-choice and short answer items. These questions will focus on the core concepts and ideas from the readings. The Individual Preparation will be administered via Blackboard as Tests and will be scored on the number of correct answers. You are allowed up to three attempts for each Individual Preparation; the score from your last attempt prior to the submission deadline will be recorded as your Individual Preparation grade. Each Individual Preparation will consist of randomly-generated items so one attempt will likely differ from the next.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Team Preparation Discussion&lt;/strong&gt;: After the deadline for completing an Individual Preparation has passed, you and your team members will complete a Team Preparation discussion for each Learning Module. Team Preparations will be administered via Blackboard using the Discussion Board feature within the Team group space. A Team Preparation for a Learning Module will consist of at least five open-ended questions. Each team member will select one question and provide an initial response, by the specified deadline, to lead-off the discussion thread. Then, each team member must add to at least one existing thread by a specified deadline. A Team Preparation score will be based on two components: the thread started and the combination of threads added to. Each component will be assessed on a completion-based system and and on-task substance (and less so on the &amp;ldquo;correctness&amp;rdquo; of a response).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clarifying Discussion&lt;/strong&gt;: On occasion, a short lecture may be provided to clarify points of confusion which surface from an Individual Preparation quiz or Team Preparation discussion or to &amp;ldquo;set the stage&amp;rdquo; for an upcoming activity. I addition to these occurring at the discretion of the professor, there will be a Community discussion board on Blackboard where students can post items they wish further clarification on. Post on this Community discussion will be viewable by all students and questions emailed to the professor may be instructed to instead be posted here so that the response is available to all students. Other students are &lt;em&gt;strongly encouraged&lt;/em&gt; to participate in posts made in the Community discussion area.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Both Individual and Team Preparation tasks are designed for you demonstrate baseline knowledge of a Learning Module prior to starting the activities.
+My intent is to always start a new Learning Module on the first day of class within a week (i.e. either a Monday or a Tuesday, depending on the section).
+Doing so should provide you with ample time from the last prior class in which to complete both the Individual and Team Preparation tasks prior to starting activities.&lt;/p&gt;
+&lt;p&gt;By at least the end of the last class session in the week prior to the start of a new Learning Module:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Readings for new Individual Preparation announced&lt;/li&gt;
+&lt;li&gt;Individual Preparation available in Blackboard&lt;/li&gt;
+&lt;li&gt;Team Preparation questions made available (team members should negotiate who will post starting response to which Team Preparation question)&lt;/li&gt;
+&lt;li&gt;First activity for new Learning Module is made available (along with solutions)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By 48 hours prior to the next class session:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deadline for completing Individual Preparation&lt;/li&gt;
+&lt;li&gt;Deadline for posting start of discussion thread for a Team Preparation question&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By start of the next class session:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deadline for adding to at least one discussion thread started by another team member&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During the next class session:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In-class discussion related to first activity for new Learning Module&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will spend a time during the first class session discussing these details specific to your section.
+At any point during the semester where you are confused about this process, please ask.&lt;/p&gt;
+&lt;h2 id=&#34;application&#34;&gt;Application&lt;/h2&gt;
+&lt;p&gt;The Preparation portion of a Learning Module is to assure individual accountability to the team. After the Preparation portion is completed, we move into the Application portion. Much of the learning in a Team-Based Learning course occurs through working on a series of activities. The activities require you and your team members to apply concepts from the course readings to a series of scenario-based questions which allow you to demonstrate knowledge of one or more of the course goals.&lt;/p&gt;
+&lt;p&gt;The number of activities within a Learning Module will vary between three and five. Each activity is composed of a series of questions (multiple-choice, calculation-based , short-answer, explanation, etc.) about a course component (i.e., statistical technique). The Applications for a Learning Module will follow this order:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The first activity will be made available via Blackboard as a Google Doc the class session following the due date of the Individual Preparation quiz.&lt;/li&gt;
+&lt;li&gt;During this first class session, you and your team members will work together answering the activity questions. There are planned check points throughout these activities at which point you will contact your professor to have them check your answers and provide clarifying discussion on items you got wrong (or you are not sure why you got an item right!). Your professor will also be cycling through team breakout rooms to be available for intermediate clarification.&lt;/li&gt;
+&lt;li&gt;Usually after this class session, the full activity solutions will be made available. If your team does not complete an activity in class, you will need to do so prior to the next class session. If you get an item wrong:
+&lt;ul&gt;
+&lt;li&gt;Recheck the readings to see why the indicated answer is correct,&lt;/li&gt;
+&lt;li&gt;Discuss any items of interest among your team members,&lt;/li&gt;
+&lt;li&gt;Make note of any items you would like to bring up for discussion during the next class session by adding it to the Class Agenda forum (in the Community discussion area).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;There will be a short (3-6 questions) Application quiz after each activity for you to check your current understanding.&lt;/li&gt;
+&lt;li&gt;The next class session will begin discussing any items of interest raised by students (which may involve a full-class discussion).&lt;/li&gt;
+&lt;li&gt;The next activity and corresponding readings will become available prior to the the next class session and the process is repeated until all activities associated with a Learning Module have been completed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The more advance time you spend preparing for a Learning Module (i.e., doing the readings), the more prepared you should be to complete the activities.&lt;/p&gt;
+&lt;p&gt;Note that activities are not collected and not graded.
+The activities are designed for you to check your understanding of the statistical content within STA 216.&lt;/p&gt;
+&lt;h2 id=&#34;assessment&#34;&gt;Assessment&lt;/h2&gt;
+&lt;p&gt;Each Learning Module includes 1) a graded homework assignment that may include producing and interpreting SAS output, doing hand calculations, and providing interpretations; and 2) an exam.
+Additional information is provided at &lt;a href=&#34;https://stat216.github.io/courses/course-grading/&#34;&gt;Course Grading&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How To Be Successful</title>
+      <link>https://stat216.github.io/courses/course-structure/how-to-succeed/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://stat216.github.io/courses/course-structure/how-to-succeed/</guid>
+      <description>&lt;p&gt;The following recommendations are taken from end-of-course evaluations, where students were asked to reflect on the Team-Based Learning experience.&lt;/p&gt;
+&lt;p&gt;To succeed in the Team-Based Learning classroom consider doing all or most of the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Keep up with readings both for the Preparation process and the Application process so that you are fully prepared to contribute&lt;/li&gt;
+&lt;li&gt;Attend class every day and be engaged&lt;/li&gt;
+&lt;li&gt;Foster good team engagement by staying on task, asking questions of your teammates about course material, and explaining concepts that you understand to teammates who ask questions&lt;/li&gt;
+&lt;li&gt;Take advantage of your resources including your teammates, your professor, and the Statistics (Tutoring) Center located in A-2-601 MAK and available virtually&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To succeed in the Preparation process consider doing all or most of the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Take notes on the Preparation readings&lt;/li&gt;
+&lt;li&gt;Focus on understanding terms by being able to apply them in the examples in the text&lt;/li&gt;
+&lt;li&gt;Raise questions with your team members to clarify understanding of the content before completing the Individual Preparation quiz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To succeed in the Application process consider doing all or most of the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Take notes on the post-Preparation readings&lt;/li&gt;
+&lt;li&gt;Keep organized notes on activity questions that need clarified and any supplemental lectures by the professor&lt;/li&gt;
+&lt;li&gt;Complete Learning Module homework problems after each activity rather than waiting until all activities are done&lt;/li&gt;
+&lt;li&gt;Assess your post-activity understanding by re-reading text sections&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

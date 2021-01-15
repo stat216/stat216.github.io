@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alejandro | STA 216</title>
+    <link>https://stat216.github.io/author/alejandro/</link>
+      <atom:link href="https://stat216.github.io/author/alejandro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alejandro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021</copyright>
+    <image>
+      <url>https://stat216.github.io/author/alejandro/avatar_hufcb2a139d168238591dba7c854cf1c72_94514_270x270_fill_lanczos_center_2.png</url>
+      <title>Alejandro</title>
+      <link>https://stat216.github.io/author/alejandro/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bradford Dykes | STA 216</title>
+    <link>https://stat216.github.io/author/bradford-dykes/</link>
+      <atom:link href="https://stat216.github.io/author/bradford-dykes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bradford Dykes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021</copyright>
+    <image>
+      <url>https://stat216.github.io/author/bradford-dykes/avatar_hu5163834585fa9af2eb1444a178af8ab7_2787813_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Bradford Dykes</title>
+      <link>https://stat216.github.io/author/bradford-dykes/</link>
+    </image>
+    
+  </channel>
+</rss>

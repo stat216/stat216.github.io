@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course Policies | STA 216</title>
+    <link>https://stat216.github.io/courses/course-policies/</link>
+      <atom:link href="https://stat216.github.io/courses/course-policies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Course Policies</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stat216.github.io/media/sta216-sticker.png</url>
+      <title>Course Policies</title>
+      <link>https://stat216.github.io/courses/course-policies/</link>
+    </image>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://stat216.github.io/courses/course-policies/technology/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://stat216.github.io/courses/course-policies/technology/</guid>
+      <description>&lt;p&gt;To use the course tools, you will need to have access to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;A laptop or tablet device&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A modern web browser&lt;/strong&gt;.
+&lt;a href=&#34;https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Chrome&lt;/a&gt; or &lt;a href=&#34;https://www.microsoft.com/en-us/edge?form=MA13DE&amp;amp;OCID=MA13DE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft Edge&lt;/a&gt; are preferred, though &lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla Firefox&lt;/a&gt; should also work.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reliable access to high-speed internet&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Use a webcam during Blackboard class sessions&lt;/strong&gt;.
+In order to increase active participation and engagement in this class, students are expected to turn on their webcam during Blackboard meetings.
+Students that do not wish to be on camera or are unable to use a camera (e.g., due to technical difficulty or lack of access to a device with a camera) should communicate with their instructor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you have any issue with accessing the above for whatever reason, let me know as soon as possible.
+I may know of resources that can help you for your particular case.&lt;/p&gt;
+&lt;p&gt;Additionally, we will use SAS via SAS OnDemand for Academics, Blackboard, Panopto, and the Google Suite apps (e.g., Google Docs and Google Drive).&lt;/p&gt;
+&lt;h2 id=&#34;sas&#34;&gt;SAS&lt;/h2&gt;
+&lt;p&gt;We will access SAS through &lt;a href=&#34;https://rstudio.hpc.gvsu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAS OnDemand for Academics&lt;/a&gt;.
+Directions for how to create an account and login will be provided in Blackboard.&lt;/p&gt;
+&lt;h2 id=&#34;blackboard&#34;&gt;Blackboard&lt;/h2&gt;
+&lt;p&gt;All assignments, documents, and grades will be posted on the &lt;a href=&#34;https://mybb.gvsu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blackboard&lt;/a&gt; course site.
+You will also use this for submitting most of your assignments.&lt;/p&gt;
+&lt;h2 id=&#34;panopto&#34;&gt;Panopto&lt;/h2&gt;
+&lt;p&gt;Panopto is a tool that we will use to submit the video portion of your exams and is free for you to use with your GVSU login.
+An early task will have you practice the process of creating and uploading a video file to Blackboard using Panopto.&lt;/p&gt;
+&lt;h2 id=&#34;google-suite&#34;&gt;Google Suite&lt;/h2&gt;
+&lt;p&gt;Activities will be provided to as links on Blackboard which will take you to a Google Doc.
+Team Google Drive folders will be created for you to assist in collaborating on these activities.
+Directions for how to do this will be provided in early activities.&lt;/p&gt;
+&lt;p&gt;In addition to activities, we will use Google Drive to submit the SAS portion of Homework assignments.
+We will discuss how to submit these files in a class session closer to the first Homework due date.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting Help</title>
+      <link>https://stat216.github.io/courses/course-policies/getting-help/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://stat216.github.io/courses/course-policies/getting-help/</guid>
+      <description>&lt;p&gt;You can ask questions about anything at any time without judgment.&lt;/p&gt;
+&lt;h2 id=&#34;community-discussion&#34;&gt;Community Discussion&lt;/h2&gt;
+&lt;p&gt;All asynchronous course discussions will occur in the Community discussion forum on Blackboard.
+This is a &lt;em&gt;private discussion forum&lt;/em&gt; and only students in our class can participate in it.
+However, this forum is not a place to discuss personal information such as grades or private concerns - that would be best to email me about.
+I will be available to assist you, but your peers will also be a great resource.
+I encourage you to seek help in ways that are visible to others so that all can benefit.&lt;/p&gt;
+&lt;p&gt;One of our first tasks will be to create a post to help you become comfortable with this process.&lt;/p&gt;
+&lt;h2 id=&#34;class-sessions&#34;&gt;Class Sessions&lt;/h2&gt;
+&lt;p&gt;You may prefer to get your questions answered live.
+Each section of STA 216 will meet synchronously in live sessions through Blackboard Collaborate this semester.
+These sessions will be recorded and available to all students in that section afterwards.
+Leading up to these sessions, I will solicit additional items beyond what I have planned to cover through the Community discussion forum on Blackboard.
+If you post items to this forum at least two hours prior to the session, I will do my best to plan a brief demonstration, lesson, etc. covering them.
+Live sessions are an excellent opportunity to ask questions about course material, assignments, or other course details.&lt;/p&gt;
+&lt;h3 id=&#34;attendance&#34;&gt;Attendance&lt;/h3&gt;
+&lt;p&gt;Again, each class session will be live-streamed so that you can participate remotely.
+It is critical that you actually attend these sessions.
+Note that GVSU has strengthened its &lt;a href=&#34;https://www.gvsu.edu/provost/temporary-academic-policies-winter-2021-semester-only-approved-252.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;attendance policy for Winter 2021&lt;/a&gt; that states that you are expected to be in attendance at synchronous online meetings.&lt;/p&gt;
+&lt;h2 id=&#34;individual-sessions&#34;&gt;Individual Sessions&lt;/h2&gt;
+&lt;p&gt;You are also welcome to meet with me individually (or bring along your team members).
+Individual sessions are an excellent opportunity for you to ask questions about graduate schools, research opportunities, or careers in statistics or data science.
+Additionally, during individual sessions you can ask me about your grades or other personal items.&lt;/p&gt;
+&lt;p&gt;Due to public health concerns, all student meetings this semester will be conducted remotely unless you have a specific need that requires a physical meeting outside of class.
+Email me to let me know that you would like to meet in-person and we will arrange a socially distanced-meeting.&lt;/p&gt;
+&lt;p&gt;I typically check email between 7 am and 5 pm on weekdays and occasionally during the weekend.
+I do my best to respond promptly to any email, but please do not expect an immediate response.
+I may need up to 6 hours to respond depending on my schedule and the length of my response.&lt;/p&gt;
+&lt;h3 id=&#34;student-drop-in-hours&#34;&gt;Student Drop-In Hours&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Monday, Tuesday, and Thursday from 1:00 – 2:00 pm&lt;/strong&gt; I will be available online for drop-in visitors.
+A Google Meet video conference link has been shared with you on Blackboard where you can access these sessions.
+You do not need an appointment to attend.
+If you cannot attend these Student Drop-In Hours, you can contact me by &lt;a href=&#34;mailto:dykesb@gvsu.edu&#34;&gt;email&lt;/a&gt; or by scheduling an appointment in the Google Calendar that is shared with you on Blackboard.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Policies</title>
+      <link>https://stat216.github.io/courses/course-policies/policies/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://stat216.github.io/courses/course-policies/policies/</guid>
+      <description>&lt;h2 id=&#34;academic-integrity&#34;&gt;Academic Integrity&lt;/h2&gt;
+&lt;p&gt;The university’s academic integrity policy is described in the &lt;a href=&#34;https://www.gvsu.edu/policies/policy.htm?policyId=EFAB64E1-C25B-E1A3-CA2B08B0B821C774&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GVSU Student Code, Section 4&lt;/a&gt;.
+Every student has the responsibility of reading and understanding these policies, especially the consequences for engaging in academically dishonest behaviors.&lt;/p&gt;
+&lt;p&gt;There are many times where you can collaborate on tasks throughout this course; however, at times collaboration may not be allowed.
+Collaboration guidelines for each kind of activity you complete in this course follow.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Individual Preparation Quizzes&lt;/em&gt;: You may not interact with another person.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Team Preparation Discussions&lt;/em&gt;: You may not interact with another person on developing your initial response, but are expected to participate in the ongoing discussion.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Application Quizzes&lt;/em&gt;: You may collaborate with others, but your submission must be your own.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Homework&lt;/em&gt;: You may collaborate with others, but your write-up must be in your own words. You may not copy someone’s work or copy the ideas from someone and simply change the wording to submit it as your own.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Blackboard Exams&lt;/em&gt;: You may not interact with another person. Any evidence of using information from another person or source will be investigated as academic dishonesty.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Video Exams&lt;/em&gt;: You may discuss ideas about what points need to be included with a prompt, but your submission must be you talking to me using your own thoughts and words. Excessive similarities in submitted work will be investigated as academic dishonesty.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All suspected instances of academic dishonesty will be thoroughly investigated, and whether a student has committed academic dishonesty is my determination to make based on the evidence.
+If I determine academic dishonesty has been committed, I will file a report with the Dean of Students, and the minimum penalty will be a zero on that assignment.
+Note that this is a &lt;em&gt;minimum penalties&lt;/em&gt;.
+Additional penalties may be given from the university including reduction of course grades and potential suspension.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A friendly reminder&lt;/strong&gt;.
+There is no need to commit academic dishonesty as I am available to help.
+If you come to believe that cheating or plagiarism is necessary given your situation, &lt;strong&gt;do not do it!&lt;/strong&gt;
+Get some &lt;a href=&#34;https://stat216.github.io/courses/policies/getting-help/&#34;&gt;help&lt;/a&gt; instead and remember that you can submit your best effort, get feedback, and be more prepared for later assignments.&lt;/p&gt;
+&lt;h2 id=&#34;late-work&#34;&gt;Late Work&lt;/h2&gt;
+&lt;p&gt;Deadlines for course work will be clearly indicated in the Blackboard Calendar.
+If there are apparent conflicts between dates, let me know so I can correct the issue.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Individual Preparation Quizzes&lt;/em&gt;, &lt;em&gt;Team Preparation Discussions&lt;/em&gt;, and &lt;em&gt;Application Quizzes&lt;/em&gt;: No extensions or deadlines are available. You may submit an Individual Preparation past the due date, feedback will be provided, but no score will be recorded.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Homework&lt;/em&gt;: You have up to two 12-hour extensions that can be used on any homework (even the same homework) if I am contacted in advance.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Exams&lt;/em&gt;: No extensions or deadlines are available.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technology&#34;&gt;Technology&lt;/h2&gt;
+&lt;p&gt;Your instructor is not able to provide support for any technological issues.
+If you encounter issues with technology, use one of the following resources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;For help with Blackboard&lt;/em&gt;: Email the GVSU Blackboard Help Desk (&lt;a href=&#34;mailto:bbadmin@gvsu.edu&#34;&gt;bbadmin@gvsu.edu&lt;/a&gt;) or call (616) 331-8526. For hours and more information see &lt;a href=&#34;https://www.gvsu.edu/elearn/help&#34;&gt;https://www.gvsu.edu/elearn/help&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;For help with the GVSU network, email, or printing&lt;/em&gt;: Email the GVSU IT Help Desk at &lt;a href=&#34;mailto:helpdesk@gvsu.edu&#34;&gt;helpdesk@gvsu.edu&lt;/a&gt; or call (616) 331-2101 or toll-free (855) 435-7466. For hours and more information see &lt;a href=&#34;https://www.gvsu.edu/it&#34;&gt;https://www.gvsu.edu/it&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;For help with SAS&lt;/em&gt;: Contact &lt;a href=&#34;https://www.sas.com/en_us/contact.htmlindex.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAS Support&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;For specific help with your computer or device&lt;/em&gt;: Contact the GVSU IT Help Desk (see previous bullet) or contact your equipment manufacturer of computer store.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;For help with course tools or applications&lt;/em&gt;: Ask a question on the Community discussion board, seek out the help documentation in the tool or application, or do a targeted Google search.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;recordings-of-blackboard-meetings&#34;&gt;Recordings of Blackboard Meetings&lt;/h2&gt;
+&lt;p&gt;Blackboard meetings will be recorded and will be available to students enrolled in this course as a study aid.
+Recordings will be available for viewing during the Remote Instruction Period subject to the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Only students enrolled in the [subject class/section] may view the recording.&lt;/li&gt;
+&lt;li&gt;Students may not post or use the recordings in any other setting (e.g., social media) for any purpose.
+Students who violate this will be subject to student discipline, up to and including expulsion.&lt;/li&gt;
+&lt;li&gt;If faculty have any plan to use the recording for a different class in the future, the faculty member will need written FERPA consent from those students in the current class who are identifiable in any of the recordings.
+A FERPA consent form signed by all students in the course will also be needed if the recordings are made available to others beyond the classroom on a non-secure digital platform.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;equitable-and-inclusive-learning-environment&#34;&gt;Equitable and Inclusive Learning Environment&lt;/h2&gt;
+&lt;p&gt;I strive to create an equitable and inclusive learning environment in our class.
+It is my goal that you feel able to share information about your experiences as a student.
+I will keep information that you share with me private to the best of my ability; however, there is some information that may need to be shared with the university, especially regarding sexual misconduct or information about a crime that may have occurred on GVSU’s campus.
+Below are additional resources available for support.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title IX, Sexual Misconduct Policy, and Gender- and Sexual-Based Harassment Policy&lt;/strong&gt;:
+Title IX makes it clear that violence and harassment based on sex and gender are Civil Rights offenses subject to the same kinds of accountability and the same kinds of support applied to offenses against other protected categories such as race, national origin, etc.
+Title IX’s sex discrimination prohibition also protects students from discrimination based on gender identity or failure to conform to stereotypical notions of masculinity or femininity.
+If you or someone you know has been harassed, assaulted, or denied services on the basis of sex or gender, you can find the appropriate resources at &lt;a href=&#34;https://www.gvsu.edu/titleix&#34;&gt;https://www.gvsu.edu/titleix&lt;/a&gt; or contact the University’s Title IX Coordinator, Theresa Rowland at (616) 331-9530 or &lt;a href=&#34;mailto:rowlanth@gvsu.edu&#34;&gt;rowlanth@gvsu.edu&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Special learning needs&lt;/strong&gt;:
+If you have special needs because of learning, physical, or other disabilities, it is your responsibility to contact Disability Support Resources (DSR) at (616) 331-2490 or &lt;a href=&#34;https://www.gvsu.edu/dsr&#34;&gt;https://www.gvsu.edu/dsr&lt;/a&gt;.
+DSR will help you arrange accommodations.
+Then, set up an appointment with me about how I can help in making those accommodations and ensure that they are consistent with your arrangements with DSR.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Student Well-Being&lt;/strong&gt;:
+As a student, you may experience a range of issues that can negatively impact your learning, such as anxiety, depression, interpersonal or sexual violence, difficulty eating or sleeping, loss/grief, and/or alcohol/drug problems.
+These mental health concerns or stressful events may lead to diminished academic performance and affect your ability to participate in day-to-day activities.
+In order to support you during such challenging times, GVSU provides a number of confidential resources to all enrolled students, including the University Counseling Center &lt;a href=&#34;https://www.gvsu.edu/counsel&#34;&gt;https://www.gvsu.edu/counsel&lt;/a&gt; or (616) 331-3266 and the Student Ombuds, Takeelia Garrett &lt;a href=&#34;mailto:garrettt@gvsu.edu&#34;&gt;garrettt@gvsu.edu&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you have difficulty affording groceries or accessing sufficient food to eat every day, or if you lack a safe and stable place to live, I encourage you to visit &lt;a href=&#34;https://www.gvsu.edu/replenish/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replenish&lt;/a&gt;, a food resource for GVSU students.
+GVSU also provides &lt;em&gt;Special Circumstances and Financial Hardship grants&lt;/em&gt; that can be used to assist in paying for many expenses.
+Contact the Office of Financial Aid &amp;amp; Scholarships at (616) 331-3234 or visit &lt;a href=&#34;https://www.gvsu.edu/financialaid/financial-hardship-requests-226.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Special Circumstance &amp;amp; Financial Hardship Requests&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you are comfortable doing so, please speak with me about your circumstances so that I can advocate for you and connect you with other campus resources.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gender expression and identity&lt;/strong&gt;:
+If your state issued identification does not match your preferred name, your name can be updated in some areas (such as Blackboard, mailroom, and your GVSU ID). At GVSU, this is called “myName” and you can request a myName by following these steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Login to myBanner, select the Personal Information tab, then select My Profile.&lt;/li&gt;
+&lt;li&gt;You will be directed to another authentication page where you will be prompted to enter your network credentials.&lt;/li&gt;
+&lt;li&gt;On the Personal Details section, select Edit on the and enter your myName.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;When your myName has been received and reviewed, you will receive an email letting you know either that it has been approved or requesting further information. Once approved, allow up to two days for the myName to be updated across the campus system. More information about myName can be found on the &lt;a href=&#34;https://www.gvsu.edu/lgbtrc/preferred-or-use-name-208.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Milton E. Ford LGBT Resource Center’s page&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;covid-19&#34;&gt;COVID-19&lt;/h2&gt;
+&lt;p&gt;As you are well aware, we will be having class this semester while trying to navigate a global pandemic that seems to change every day.
+Although these plans can be scary and demoralizing, I want you to know that GVSU is doing everything in its power to keep people safe from Covid-19.
+I believe that if we observe reasonable precautions like the ones described here, then while the risk of Covid-19 is still present, there is no reason to be afraid.
+We will still learn and grow intellectually just as in “typical” times if we stay focused and work together.&lt;/p&gt;
+&lt;p&gt;What follow are general guidelines for how we can work productively together during STA 216.&lt;/p&gt;
+&lt;h3 id=&#34;taking-care-of-yourself&#34;&gt;Taking care of yourself&lt;/h3&gt;
+&lt;p&gt;Of the utmost importance is taking care of your own physical and mental health during these difficult times.
+Make sure you are getting sufficient rest, staying connected to friends and family, and giving yourself time and space to do things you enjoy outside of college.
+The Mayo Clinic provides &lt;a href=&#34;https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/self-care-tips-during-the-covid-19-pandemic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;several tips for maintaining good self-care&lt;/a&gt; in our situation.&lt;/p&gt;
+&lt;p&gt;While we will not be coming to campus for STA 216, you are still implored to perform a self-evaluation each day and if you feel even the slightest bit of sickness or Covid-19 symptoms, stay home.
+If you have a class that meets on campus, you should be on campus only if you feel completely healthy.&lt;/p&gt;
+&lt;h3 id=&#34;contingency-plans-for-the-semester&#34;&gt;Contingency plans for the semester&lt;/h3&gt;
+&lt;p&gt;We will be “synchronously online” for the semester, but several things could happen that might alter this setup.
+Here are the initial plans for the most likely of those things.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If the professor is in self-quarantine, but not because of illness&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;For example, if my partner becomes sick or if my daily self-assessment directs me to stay at home.
+In this case, we will continue synchronous online meetings and an asynchronous option might be introduced.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If the professor has a Covid-19 infection&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;The entire course will be moved to an asynchronous online format until I am well enough to resume my responsibilities.
+A substitute instructor may be appointed to grade and give feedback on Preparation and Follow-up tasks and all other graded work will be suspended until I am well enough to grade.&lt;/p&gt;
+&lt;p&gt;In either of these two cases, you can expect a slowdown in the grading process and substantial changes to the course calendar or syllabus.
+Please monitor your course announcements daily to ensure you have correct information.
+Note that these plans may be changed or overridden by university-wide directives as the semester unfolds.
+Again, the course announcements will be where I post any information.&lt;/p&gt;
+&lt;h2 id=&#34;gvsu-policies&#34;&gt;GVSU Policies&lt;/h2&gt;
+&lt;p&gt;This course is subject to GVSU&amp;rsquo;s &lt;a href=&#34;http://www.gvsu.edu/coursepolicies&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Policies&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;changes-to-this-syllabus&#34;&gt;Changes to this Syllabus&lt;/h2&gt;
+&lt;p&gt;Changes to this syllabus may occur during the semester.
+These changes will be announced in class and online, and if appropriate, students will be given an opportunity to voice on how the changes will be implemented.&lt;/p&gt;
+&lt;h2 id=&#34;key-semester-dates&#34;&gt;Key Semester Dates&lt;/h2&gt;
+&lt;p&gt;Important dates to keep in mind for this semester are available at the Registrar&amp;rsquo;s &lt;a href=&#34;https://www.gvsu.edu/registrar/academiccalendar.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Calendar&lt;/a&gt;.
+I highlight a few here.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Classes Begin:  Tuesday, January 19
+&lt;ul&gt;
+&lt;li&gt;Martin Luther King, Jr. Holiday observed Monday, January 18&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Winter Break:  Wednesday, March 10&lt;/li&gt;
+&lt;li&gt;Winter Break:  Thursday, April 1&lt;/li&gt;
+&lt;li&gt;Drop Deadline (Grade of “W”):  Friday, April 9, 5 p.m.&lt;/li&gt;
+&lt;li&gt;Classes End:  Saturday, April 24&lt;/li&gt;
+&lt;li&gt;Final Examination Week:  Monday, April 26 – Saturday, May 1&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
